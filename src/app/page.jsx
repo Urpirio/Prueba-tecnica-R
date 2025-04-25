@@ -6,7 +6,7 @@ import SectionImg from "@/../public/image background-01.png"
 export default function page() {
   return (
     <body>
-        <header className="flex justify-center items-center text-white  px-5">
+        <header className="flex justify-center items-center text-white  px-15">
             <div className="flex justify-start flex-grow basis-0">
                 <Image className=" object-cover" height={110} src={Logo} alt="Logo"/>
             </div>
